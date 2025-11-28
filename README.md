@@ -22,3 +22,12 @@ Para ver su funcionamiento y programación, pueden ver los siguientes videos:
 [![Video](https://img.youtube.com/vi/wwghchPi3ZY/0.jpg)](https://www.youtube.com/watch?v=wwghchPi3ZY)
 
 Comparto el archivo HEX; Los códigos de fuente pueden solicitarlos vía correo electrónico personalmente
+
+
+_**PD: No te pierdas la version 2 de este proyecto (con ARDUINO):**_
+
+https://github.com/ETI-PATAGONIA-AR/Controlador-L-gico-Programable-de-Tiempo-V2
+
+[![Video](https://img.youtube.com/vi/KuOlEup2TWc/0.jpg)](https://www.youtube.com/watch?v=KuOlEup2TWc)
+
+
